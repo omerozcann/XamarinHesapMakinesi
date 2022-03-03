@@ -1,0 +1,15 @@
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.deps.json
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.dll
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\netstandard2.0\ref\HesapMakinesi.dll
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\bin\Debug\netstandard2.0\HesapMakinesi.pdb
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.AssemblyInfoInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.AssemblyInfo.cs
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.dll
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\ref\HesapMakinesi.dll
+D:\Belgeler\Visual Studio 2019\Projects\HesapMakinesi\HesapMakinesi\HesapMakinesi\obj\Debug\netstandard2.0\HesapMakinesi.pdb
